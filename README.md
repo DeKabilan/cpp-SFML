@@ -1,7 +1,7 @@
 # SFML Drawing Board
 <p>Simple Drawing Board using C++ SFML library</p>
 <br>
-<p>Steps:</p>
+<b><p>Steps:</p></b>
 <p> -Install SFML</p>
 <p> -Clone this Repository</p>
 <p> -Then Type "make" in CLI</p>
