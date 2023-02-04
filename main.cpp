@@ -3,6 +3,7 @@
 int main(){
     sf::RenderWindow window(sf::VideoMode(800,800),"SFML Tutorial", sf::Style::Titlebar | sf:: Style::Close);
     sf::RectangleShape white(sf::Vector2f(5.0f,5.0f));
+    white.setOrigin(2.5f,2.5f);
     window.clear();
     while (window.isOpen()){
         sf::Event evnt;
